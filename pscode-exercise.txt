@@ -1,0 +1,69 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+number= input a number
+if a number % 2==0
+Print("{0} is even number")
+else 
+Print("{0} is odd number")
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.
+numbers=(no1,no2,no3,no4,no5)
+
+b) Calculate the average of the five numbers.
+no1+no2+no3+no4+no5/total count of numbers(5)=result
+print result "this is average"
+
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+if no1 < no2,no3,no4,no5 
+print "no1 is minimum"
+
+if no2 < no1,no3,no4,no5 
+print "no2 is minimum"
+
+if no3 < no1,no2,no4,no5
+print" no3 in minimum"
+
+if no4 < no1,no2,no3,no5
+print "no 4 is minimum"
+
+if no5 < no1,no2,no3,no4
+print" no5 is minimum"
+
+
+if no1 > no2,no3,no4,no5 
+print "no1 is maximum"
+
+if no2 > no1,no3,no4,no5 
+print "no1 is maximum
+
+if no3 > no1,no2,no4,no5
+print" no3 in maximum
+
+if no4 > no1,no2,no3,no5
+print "no 4 is maximum
+
+if no5 > no1,no2,no3,no4
+print" no5 is maximum
+
+
+d) Write out the results found from steps b and c with a message describing what they are
+
+average = total sum of numbers/total numbers
+if a number is greater then other numbers then a number is maximum
+if a number is minimum then other numbers then a number is minimum
+
+-- END --
